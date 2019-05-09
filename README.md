@@ -1,2 +1,2 @@
-# rwthdds
-Data science project
+# Data science project
+RWTH_DDS
